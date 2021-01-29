@@ -1,3 +1,5 @@
-<testsuite name="Mocha Tests" tests="1" failures="0" errors="0" skipped="0" timestamp="Fri, 29 Jan 2021 07:09:13 GMT" time="46.4">
-<testcase classname="Login" name="Conduit Login" time="46.337"/>
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="1" skipped="0" timestamp="Fri, 29 Jan 2021 08:35:47 GMT" time="0.373">
+<testcase classname="API Testing" name="GET-read" time="0"><failure>response is not defined
+ReferenceError: response is not defined
+    at Context.eval (https://react-redux.realworld.io/__cypress/tests?p=cypress/integration/QAM/TC008_api.spec.js:7:12)</failure></testcase>
 </testsuite>

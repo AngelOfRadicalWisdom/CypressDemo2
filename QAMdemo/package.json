@@ -27,7 +27,7 @@
     "mochawesome-merge": "^4.2.0",
     "mochawesome-report-generator": "^5.1.0"
   },
-  "cypress-cucumber-preprocessor":{
-    "nonGlobalStepDefinitions":true
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
   }
 }
